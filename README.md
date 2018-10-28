@@ -1,1 +1,1 @@
-# Mockito Programming Cookbook - Examples
+# Mockito Programming Cookbook Examples
